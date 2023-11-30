@@ -8,7 +8,7 @@ Chrome
 
 ### Usage
 
-```run startChrome.py
+```run startChrome.py```
 
 usage: startChrome.py [-h] [--userDir USERDIR]```
 
