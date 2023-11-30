@@ -10,7 +10,7 @@ Chrome
 
 ```run startChrome.py```
 
-usage: startChrome.py [-h] [--userDir USERDIR]```
+```usage: startChrome.py [-h] [--userDir USERDIR]```
 
 script start chrome and will generate sessionID.json
 
